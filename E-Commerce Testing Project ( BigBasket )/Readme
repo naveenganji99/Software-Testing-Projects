@@ -1,0 +1,31 @@
+🎮 Game Testing Portfolio
+This repository contains my hands-on game testing projects developed as part of my QA learning and practical experience.
+
+The projects focus on testing real mobile and PC games using manual testing techniques,
+industry-standard QA tools, and structured test documentation practices.
+
+📁 Projects Included
+1. Squad Busters (Mobile - Android)
+Tools Used: Jira, Xray
+
+Description:
+Conducted manual testing focused on onboarding, tutorial flow, matchmaking,
+rewards system, player progression, and character management.
+
+Created test plans, test cases, test executions, and reports using Xray integrated with Jira.
+Tested app behavior during background, resume, restart, and network interruption scenarios.
+
+🔧 Skills & Tools
+Test Case Design (Functional, Usability, Stability)
+Bug Reporting and Tracking
+Jira, Xray, TestRail
+Manual Game Testing for Mobile & PC
+Real Device Testing (Android, PC)
+📌 Purpose
+This repository is part of my QA portfolio and is intended to demonstrate my understanding of
+game testing methodologies, structured test execution, and professional documentation practices.
+
+As a Game Tester, these projects reflect my readiness to work in QA teams and contribute
+to product quality through disciplined and user-focused testing.
+
+📬 Feel free to explore the projects and reach out for feedback or collaboration.
