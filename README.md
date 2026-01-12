@@ -1,4 +1,4 @@
-# 🧪 Software Testing Portfolio
+# 💻 Software Testing Portfolio
 
 This repository contains my hands-on software testing projects developed through
 practical experience with real-world mobile applications.
